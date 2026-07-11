@@ -1,0 +1,7 @@
+.git
+.next
+node_modules
+.playwright-mcp
+
+# Exclude large brand asset archives not needed at runtime
+public/images/brand/Icons

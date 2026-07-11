@@ -1,0 +1,5 @@
+{
+  "name": "Blind Spot Decoder",
+  "description": "A live multimodal self-awareness assessment app that reveals the blind spots shaping how you show up.",
+  "requestFramePermissions": ["camera", "microphone"]
+}

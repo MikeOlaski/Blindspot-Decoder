@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-logo {
+  font-family: var(--font-comfortaa), sans-serif;
+}
+
+.font-ui {
+  font-family: var(--font-manrope), sans-serif;
+}
